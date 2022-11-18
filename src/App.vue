@@ -141,7 +141,7 @@ export default {
         "ring": "Atlas Line",
         "headerTitle": "Landmark Colonial",
         "headerSubtitle": "",
-        "subheaderSubtitle": "Crisis Response",
+        "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "CRT Serendipity Blue",
       },
       "options":{
