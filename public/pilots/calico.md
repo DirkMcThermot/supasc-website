@@ -5,10 +5,10 @@ Memory, emotional regulation, and ranged combat skills are significantly impaire
 What Quinn doesn't know is that there is an old, broken, and failing neural interface threaded throughout their body, currently controlled by a dormant Comp/Con unit. While formerly used to connect the pilot directly to their mech and feed information directly into their brain, the blueprints to connect the neural interface cannot be found. The Comp/Con formerly gave Quinn instructions and would seize control of their motor functions when they refused orders. Since it is currently not running, Quinn has full control, and no awareness of it's presence. This current state is also caused by their testing accident. The only visible point to onlookers is a small port on the nape of their neck. Quinn hides it, and thinks it's a piece of scrap stuck in their body.
 
 ## Appearance
-Height: 5'2"
-Age: Adult. Estimated to be in their early twenties
-Eyes: Yellow
-Hair: White
+Height: 5'2" <br>
+Age: Adult. Estimated to be in their early twenties <br>
+Eyes: Yellow <br>
+Hair: White <br>
 
 Quinn is not a particulary tall pilot, however, they have a rather compact build, rendering them strong for their physique. Over their lean muscle is a patchwork of scars from different injuries. Their largest, and most notable scar covers the right half of their face, and trails down their chest to their lower ribcage, and upper arm. Likely a burn, or an intense scrap from an impact. Linked to their head injuries. On their back is different markings, alonside with a serial number and some sort of metal plug at the base of their neck. Quinn's hair is kept in a flat bob, with bangs that unsuccessfully try to obscure their facial scarring. Their yellow eyes appear unnatural, likely part of whatever procedures their creators performed. 
 
