@@ -98,11 +98,6 @@ export default {
           "name": "Bug-Hunt",
           "status": "success"
         },
-        {
-          "slug": "002",
-          "name": "TBD",
-          "status": "start"
-        },
       ],
       "pilots": [
         {
