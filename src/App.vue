@@ -109,9 +109,9 @@ export default {
           "callsign": "nat",
           "alias": "NATALIE MARCELINE GREEN",
           "code": "Green.Natalie.Marceline:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-BLACK-SKY",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rear-Wheel Drive"
+          "corpro": "HORUS",
+          "frame": "Pegasus",
+          "mech": "Re@r W!he#el D$rive]"
         },
         {
           "callsign": "cyclops",
@@ -125,17 +125,17 @@ export default {
           "callsign": "calico",
           "alias": "Quinn Wroan",
           "code": "Wroan.Quinn:ba6f73ee-6ded-4306-831c-a86d-896462c8a236//NDL-C-EPSILON-CAIRN",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Shit Heap"
+          "corpro": "IPS-N",
+          "frame": "Zheng",
+          "mech": "Soda"
         },
         {
           "callsign": "genbu",
           "alias": "Jin Rodewald",
           "code": "Rodewald.Jin:132b52b9-cba9-4cce-b8c0-46f8071b862c//NDL-C-ALPHA-LASH",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Perilous Journey"
+          "corpro": "SSC",
+          "frame": "Orchis",
+          "mech": "Perfect Competition"
         },
       ],
       "header": {
