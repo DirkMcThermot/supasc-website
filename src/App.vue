@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
-      "current_md": "003",
-      "events": "003",
+      "mission_slug": "004",
+      "current_md": "004",
+      "events": "004",
       "missions": [
         {
           "slug": "001",
@@ -106,7 +106,7 @@ export default {
         {
           "slug": "003",
           "name": "Floodgate",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
