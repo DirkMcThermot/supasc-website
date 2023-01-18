@@ -122,9 +122,9 @@ export default {
           "callsign": "cyclops",
           "alias": "Oswell (Oz) Steiner",
           "code": "Steiner.Oswell.”Oz”:996776c1-4b75-4cc4-a499-5edbff0a56a7//NDL-C-BLUE-ORBIT",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Blue Stripes"
+          "corpro": "IPS-N",
+          "frame": "Nelson",
+          "mech": "Blue Falcon"
         },
         {
           "callsign": "calico",
