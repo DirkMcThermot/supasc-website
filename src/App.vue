@@ -108,6 +108,11 @@ export default {
           "name": "Floodgate",
           "status": "success"
         },
+        {
+          "slug": "004",
+          "name": "Rallying Cry",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
