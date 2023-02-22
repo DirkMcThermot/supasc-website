@@ -7,7 +7,7 @@
         <h1>Mission Log</h1>
       </div>
       <div class="section-content-container">
-        <h3>Current Assignment</h3>
+        <h3>Current Assignment [CRTICAL]</h3>
         <Markdown :source="current_md" class="markdown" />
         <h3>Mission List</h3>
         <div class="mission-list-container">
@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "004",
-      "current_md": "004",
-      "events": "004",
+      "mission_slug": "005",
+      "current_md": "005",
+      "events": "005",
       "missions": [
         {
           "slug": "001",
@@ -113,6 +113,11 @@ export default {
           "name": "Rallying Cry",
           "status": "success"
         },
+        {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
@@ -127,9 +132,9 @@ export default {
           "callsign": "cyclops",
           "alias": "Oswell (Oz) Steiner",
           "code": "Steiner.Oswell.”Oz”:996776c1-4b75-4cc4-a499-5edbff0a56a7//NDL-C-BLUE-ORBIT",
-          "corpro": "IPS-N",
-          "frame": "Nelson",
-          "mech": "Blue Falcon"
+          "corpro": "C&H",
+          "frame": "Retiarius",
+          "mech": "Utopian Pillar"
         },
         {
           "callsign": "calico",
