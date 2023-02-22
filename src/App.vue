@@ -126,7 +126,7 @@ export default {
           "code": "Green.Natalie.Marceline:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-BLACK-SKY",
           "corpro": "HORUS",
           "frame": "Pegasus",
-          "mech": "Re@r W!he_el D$rive]"
+          "mech": "Rear-Wheel Drive"
         },
         {
           "callsign": "cyclops",
