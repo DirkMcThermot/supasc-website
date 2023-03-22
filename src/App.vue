@@ -116,7 +116,7 @@ export default {
         {
           "slug": "005",
           "name": "Split-Knuckle Haymaker",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
