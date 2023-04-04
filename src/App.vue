@@ -7,7 +7,7 @@
         <h1>Mission Log</h1>
       </div>
       <div class="section-content-container">
-        <h3>Current Assignment [CRITICAL]</h3>
+        <h3>Current Assignment</h3>
         <Markdown :source="current_md" class="markdown" />
         <h3>Mission List</h3>
         <div class="mission-list-container">
