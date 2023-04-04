@@ -7,18 +7,18 @@
 //Primary Colors
 $primary: rgba(209, 27, 32, 1);
 $secondary: rgba(255, 255, 255, 0.8);
-$highlight-hover: rgba(255, 255, 255, 0.3);
+$highlight-hover: rgba(180, 180, 180, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
 //Primary Text
-$text-headers: rgba(0, 0, 0, 1);
-$text-location: rgba(255, 255, 255, 0.87);
+$text-headers: rgba(255, 255, 255, 1);
+$text-location: rgba(0, 0, 0, 0.87);
 
 //Location Information
 $location-separator: rgba(255, 255, 255, 0.24);
 
 //Mission Pane
-$text-mission-title: rgba(255, 255, 255, 0.67);
+$text-mission-title: rgba(0, 0, 0, 0.67);
 $text-mission-status: rgba(255, 255, 255, 0.87);
 $mission-start: rgba(109, 109, 109, 1);
 $mission-partial: rgba(88, 34, 102, 1);
