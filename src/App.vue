@@ -89,80 +89,68 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
-      "current_md": "005",
-      "events": "005",
+      "mission_slug": "001",
+      "current_md": "001",
+      "events": "001",
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-          "status": "success"
-        },
-        {
-          "slug": "003",
-          "name": "Floodgate",
-          "status": "success"
-        },
-        {
-          "slug": "004",
-          "name": "Rallying Cry",
-          "status": "success"
-        },
-        {
-          "slug": "005",
-          "name": "Split-Knuckle Haymaker",
-          "status": "success"
+          "name": "TBD",
+          "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "nat",
-          "alias": "NATALIE MARCELINE GREEN",
-          "code": "Green.Natalie.Marceline:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-BLACK-SKY",
-          "corpro": "HORUS",
-          "frame": "Pegasus",
-          "mech": "Rear-Wheel Drive"
+          "callsign": "",
+          "alias": "",
+          "code": "",
+          "corpro": "GMS",
+          "frame": "",
+          "mech": ""
         },
         {
-          "callsign": "cyclops",
-          "alias": "Oswell (Oz) Steiner",
-          "code": "Steiner.Oswell.”Oz”:996776c1-4b75-4cc4-a499-5edbff0a56a7//NDL-C-BLUE-ORBIT",
-          "corpro": "C&H",
-          "frame": "Retiarius",
-          "mech": "Utopian Pillar"
+          "callsign": "",
+          "alias": "",
+          "code": "",
+          "corpro": "GMS",
+          "frame": "",
+          "mech": ""
         },
         {
-          "callsign": "calico",
-          "alias": "Quinn Wroan",
-          "code": "Wroan.Quinn:ba6f73ee-6ded-4306-831c-a86d-896462c8a236//NDL-C-EPSILON-CAIRN",
-          "corpro": "IPS-N",
-          "frame": "Zheng",
-          "mech": "Soda"
+          "callsign": "",
+          "alias": "",
+          "code": "",
+          "corpro": "GMS",
+          "frame": "",
+          "mech": ""
         },
         {
-          "callsign": "genbu",
-          "alias": "Jin Rodewald",
-          "code": "Rodewald.Jin:132b52b9-cba9-4cce-b8c0-46f8071b862c//NDL-C-ALPHA-LASH",
-          "corpro": "SSC",
-          "frame": "Orchis",
-          "mech": "Perfect Competition"
+          "callsign": "",
+          "alias": "",
+          "code": "",
+          "corpro": "GMS",
+          "frame": "",
+          "mech": ""
+        },
+        {
+          "callsign": "",
+          "alias": "",
+          "code": "",
+          "corpro": "GMS",
+          "frame": "",
+          "mech": ""
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Ouanoukrim Station",
-        "ring": "Atlas Line",
-        "headerTitle": "Landmark Colonial",
+        "planet": "Cressidium",
+        "year": "5016u",
+        "system": "Leandra",
+        "gate": "Rainier Station",
+        "ring": "Cascade Line",
+        "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "CRT Serendipity Blue",
+        "subheaderTitle": "UNS-CV Rio Grande",
+        "subheaderSubtitle": "SQUAD NAME HERE",
       },
       "options":{
         "eventsMarkdownPerMission": true
