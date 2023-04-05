@@ -14,13 +14,16 @@ $highlight-active: rgba(255, 255, 255, 0.1);
 $text-headers: rgba(255, 255, 255, 1);
 $text-location: rgba(0, 0, 0, 1);
 
-//Company/Squad Names (upper left)
+//Company and Squad Names (upper left)
 $text-company: rgba(255, 255, 255, 1);
 $text-subcompany: rgba(255, 255, 255, 1);
 $text-squadname: rgba(255, 255, 255, 1);
 
 //Location Information
 $location-separator: rgba(255, 255, 255, 0.24);
+
+//Section Headers
+$text-sectionheaders: rgba(255, 255, 255, 1);
 
 //Mission Pane
 $text-mission-title: rgba(0, 0, 0, 0.67);
@@ -330,6 +333,7 @@ section .section-header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    color: $text-sectionheaders;
   }
 }
 
@@ -653,6 +657,7 @@ section .section-header {
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.1em;
+      color: $text-sectionheaders;
     }
   }
 
@@ -704,6 +709,7 @@ section .section-header {
     gap: 15px;
     padding-left: 16px;
     margin-top: -38px !important;
+    color: $text-sectionheaders;
   }
 
   .rhombus-back {
