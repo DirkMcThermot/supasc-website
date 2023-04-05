@@ -11,7 +11,7 @@ $highlight-hover: rgba(180, 180, 180, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
 //Primary Text
-$text-headers: rgba(255, 0, 0, 1);
+$text-headers: rgba(255, 255, 255, 1);
 $text-location: rgba(0, 0, 0, 1);
 
 //Location Information
@@ -417,7 +417,7 @@ section .section-header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: $text-mission-title;
+    color: rgba(255, 255, 255, 0.67);;
   }
 
   h2 {
