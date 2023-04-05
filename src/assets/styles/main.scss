@@ -21,7 +21,7 @@ $text-subcompany: rgba(255, 255, 255, 1);
 $text-squadname: rgba(255, 255, 255, 1);
 
 //Location Information
-$location-separator: rgba(255, 255, 255, 1);
+$location-separator: rgba(255, 255, 255, 0.24);
 
 //Section Headers
 $text-sectionheaders: rgba(255, 255, 255, 1);
@@ -188,8 +188,7 @@ header {
 }
 
 #title-first-line {
-  border-bottom: 1px solid #000;
-  color:$titlerow;
+  border-bottom: 1px solid #fff;
 }
 
 .rhombus {
