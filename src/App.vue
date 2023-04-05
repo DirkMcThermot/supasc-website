@@ -146,7 +146,7 @@ export default {
         "year": "5016u",
         "system": "Leandra",
         "gate": "Rainier Station",
-        "ring": "10: Cascade Line",
+        "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande",
