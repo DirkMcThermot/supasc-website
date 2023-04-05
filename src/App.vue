@@ -142,7 +142,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Planet: Cressidium // City: Nov Elysia",
+        "planet": "Nov Elysia, Cressidium",
         "year": "5016u",
         "system": "Leandra",
         "gate": "Rainier Station",
