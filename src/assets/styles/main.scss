@@ -16,6 +16,7 @@ $text-location: rgba(0, 0, 0, 1);
 
 //Company and Squad Names (upper left)
 $text-company: rgba(255, 255, 255, 1);
+$titlerow: rgba(255, 255, 255, 1);
 $text-subcompany: rgba(255, 255, 255, 1);
 $text-squadname: rgba(255, 255, 255, 1);
 
@@ -182,6 +183,7 @@ header {
 
 .title-row {
   width: 100%;
+  color:$titlerow;
 }
 
 #title-first-line {
