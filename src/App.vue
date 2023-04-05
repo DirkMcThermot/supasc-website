@@ -149,7 +149,7 @@ export default {
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
-        "subheaderTitle": "UNS-CV Rio Grande",
+        "subheaderTitle": "UNS-CV Rio Grande ",
         "subheaderSubtitle": "SQUAD NAME HERE",
       },
       "options":{
