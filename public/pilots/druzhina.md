@@ -1,0 +1,3 @@
+Illya "Druzhina" Karpenko (he/him), a recent graduate of a Union pilot academy, but a learned bodyguard for nobility before ever stepping into a mech. Illya is a Karrakin native that crossed space into a Union academy as part of an exchange program, where he found his fighting proficiency translated well into a chassis, but struggled to understand Union doctrines at first. He came to value some of ThirdComm's virtues in his time there, and instead of returning to the Karrakis cavalry colleges, opted to join Union's own pilots in service a little longer.
+
+A veritable knight in shining armour, callsign: Druzhina tries to face every challenge with his chivalrous oath and a smile.

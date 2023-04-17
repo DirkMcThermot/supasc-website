@@ -101,36 +101,36 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "",
-          "alias": "",
-          "code": "",
+          "callsign": "bulwark",
+          "alias": "Mischa Kovalsky",
+          "code": "Kovalsky.Mischa:a781f8cf-4891-49aa-b32e-adcbdc876637//NDL-C-FIRST-CUT",
           "corpro": "GMS",
-          "frame": "",
-          "mech": ""
+          "frame": "Sagarmatha",
+          "mech": "Collective Bargain"
         },
         {
-          "callsign": "",
-          "alias": "",
-          "code": "",
+          "callsign": "druzhina",
+          "alias": "Illya Karpenko",
+          "code": "Karpenko.Illya:fc0f8db8-ecd4-4c32-13556b79d853//NDL-C-SECOND-WILL",
           "corpro": "GMS",
-          "frame": "",
-          "mech": ""
+          "frame": "Sagarmatha",
+          "mech": "Oathkeeper"
         },
         {
-          "callsign": "",
-          "alias": "",
-          "code": "",
+          "callsign": "kid fritz",
+          "alias": "Frederick 'Fritz' Ackerley",
+          "code": "Ackerley.Frederick.Fritz:652597be-f3fd-45f3-82c3-f851b2cbb7e4//NDL-C-THIRD-JUNE",
           "corpro": "GMS",
-          "frame": "",
-          "mech": ""
+          "frame": "Chomolungma",
+          "mech": "Phantom of the Omninet"
         },
         {
-          "callsign": "",
-          "alias": "",
-          "code": "",
+          "callsign": "shrike",
+          "alias": "Dalton Burke",
+          "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
           "corpro": "GMS",
-          "frame": "",
-          "mech": ""
+          "frame": "Everest",
+          "mech": "Pale Horse"
         },
         {
           "callsign": "",
