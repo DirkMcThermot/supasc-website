@@ -144,7 +144,7 @@ export default {
       "header": {
         "planet": "Nov Elysia, Cressidium",
         "year": "5016u",
-        "system": "Leandra",
+        "system": "Cascade-16",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
