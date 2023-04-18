@@ -133,12 +133,12 @@ export default {
           "mech": "Pale Horse"
         },
         {
-          "callsign": "",
-          "alias": "",
-          "code": "",
+          "callsign": "thumper",
+          "alias": "Tristn Patrock",
+          "code": "Patrock.Tristn:c4be5295-d8bc-4de5-a8e8-78d3893f537a//NDL-C-GAMMA-DREAM",
           "corpro": "GMS",
-          "frame": "",
-          "mech": ""
+          "frame": "Everest",
+          "mech": "Full Disclosure"
         },
       ],
       "header": {
