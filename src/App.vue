@@ -150,7 +150,7 @@ export default {
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande ",
-        "subheaderSubtitle": "SQUAD NAME HERE",
+        "subheaderSubtitle": "Charlie Foxtrot",
       },
       "options":{
         "eventsMarkdownPerMission": true
