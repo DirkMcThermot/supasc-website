@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "TBD",
+          "name": "The Drop",
           "status": "start"
         },
       ],
