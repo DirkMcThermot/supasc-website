@@ -132,14 +132,6 @@ export default {
           "frame": "Everest",
           "mech": "Pale Horse"
         },
-        {
-          "callsign": "thumper",
-          "alias": "Tristn Patrock",
-          "code": "Patrock.Tristn:c4be5295-d8bc-4de5-a8e8-78d3893f537a//NDL-C-GAMMA-DREAM",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Full Disclosure"
-        },
       ],
       "header": {
         "planet": "Nov Elysia, Cressidium",
