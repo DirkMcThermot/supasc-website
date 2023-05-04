@@ -132,6 +132,14 @@ export default {
           "frame": "Everest",
           "mech": "Pale Horse"
         },
+        {
+          "callsign": "columbia",
+          "alias": "Nay Cough",
+          "code": "Cough.Nay:aefb052e-0a91-49e0-b961-38f545c18ba5//NDL-C-OMEGA-GRAVE",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "Bloodied Honor"
+        },
       ],
       "header": {
         "planet": "Nov Elysia, Cressidium",
