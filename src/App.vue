@@ -113,8 +113,8 @@ export default {
           "alias": "Illya Karpenko",
           "code": "Karpenko.Illya:fc0f8db8-ecd4-4c32-13556b79d853//NDL-C-SECOND-WILL",
           "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Oathkeeper"
+          "frame": "Everest",
+          "mech": "Let's Try Again"
         },
         {
           "callsign": "kid fritz",
