@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
-      "current_md": "002",
-      "events": "002",
+      "mission_slug": "003",
+      "current_md": "003",
+      "events": "003",
       "missions": [
         {
           "slug": "001",
@@ -101,6 +101,11 @@ export default {
         {
           "slug": "002",
           "name": "Daybreak",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Cybersleuth",
           "status": "start"
         },
       ],
@@ -109,45 +114,45 @@ export default {
           "callsign": "bulwark",
           "alias": "Mischa Kovalsky",
           "code": "Kovalsky.Mischa:a781f8cf-4891-49aa-b32e-adcbdc876637//NDL-C-FIRST-CUT",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Collective Bargain"
+          "corpro": "IPS-N",
+          "frame": "Drake",
+          "mech": "Alabama Chrome"
         },
         {
-          "callsign": "druzhina",
-          "alias": "Illya Karpenko",
-          "code": "Karpenko.Illya:fc0f8db8-ecd4-4c32-13556b79d853//NDL-C-SECOND-WILL",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Let's Try Again"
+          "callsign": "scimitar",
+          "alias": "Zara Khan",
+          "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
+          "corpro": "IC",
+          "frame": "Acastus",
+          "mech": "The Art of Dismemberment"
         },
         {
           "callsign": "kid fritz",
           "alias": "Frederick 'Fritz' Ackerley",
           "code": "Ackerley.Frederick.Fritz:652597be-f3fd-45f3-82c3-f851b2cbb7e4//NDL-C-THIRD-JUNE",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Phantom of the Omninet"
+          "corpro": "HORUS",
+          "frame": "Goblin",
+          "mech": "Phantom Backpack"
         },
         {
           "callsign": "shrike",
           "alias": "Dalton Burke",
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Pale Horse"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "Atropos"
         },
         {
-          "callsign": "columbia",
-          "alias": "Nay Cough",
-          "code": "Cough.Nay:aefb052e-0a91-49e0-b961-38f545c18ba5//NDL-C-OMEGA-GRAVE",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Bloodied Honor"
+          "callsign": "dominus",
+          "alias": "Rho",
+          "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
+          "corpro": "SSC",
+          "frame": "Swallowtail",
+          "mech": "Iron Rain"
         },
       ],
       "header": {
-        "planet": "Nov Elysia, Cressidium",
+        "planet": "Port Conroy, Havelburg",
         "year": "5016u",
         "system": "Cascade-16",
         "gate": "Rainier Station",
@@ -155,7 +160,7 @@ export default {
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande ",
-        "subheaderSubtitle": "Charlie Foxtrot",
+        "subheaderSubtitle": "'Chimera Force'",
       },
       "options":{
         "eventsMarkdownPerMission": true
