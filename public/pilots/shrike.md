@@ -1,11 +1,17 @@
 **Union Navy Personnel File: RG-CF-02**
 
 **Name**: Dalton Burke
+
 **Callsign**: Shrike
+
 **Age**: Approximately 30 (Exact DOB unknown, estimated 4986u) 
+
 **Height**: 6’-0” (183 cm.)
+
 **Eyes**: Gray
+
 **Hair**: Brown
+
 **Pronouns**: He/Him
 
 **Current Status**: Active. Assigned to Charlie Foxtrot Squadron aboard the UNS-CV *Rio Grande*.
