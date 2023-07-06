@@ -106,7 +106,7 @@ export default {
         {
           "slug": "003",
           "name": "Cybersleuth",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
