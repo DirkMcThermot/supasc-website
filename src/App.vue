@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
-      "current_md": "003",
-      "events": "003",
+      "mission_slug": "004",
+      "current_md": "004",
+      "events": "004",
       "missions": [
         {
           "slug": "001",
@@ -107,6 +107,11 @@ export default {
           "slug": "003",
           "name": "Cybersleuth",
           "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "Dustgrave",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -139,8 +144,8 @@ export default {
           "alias": "Dalton Burke",
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
           "corpro": "SSC",
-          "frame": "Death's Head",
-          "mech": "Atropos"
+          "frame": "Reaper Dart",
+          "mech": "Morta"
         },
         {
           "callsign": "dominus",
