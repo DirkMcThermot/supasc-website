@@ -111,18 +111,10 @@ export default {
         {
           "slug": "004",
           "name": "Dustgrave",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
-        {
-          "callsign": "bulwark",
-          "alias": "Mischa Kovalsky",
-          "code": "Kovalsky.Mischa:a781f8cf-4891-49aa-b32e-adcbdc876637//NDL-C-FIRST-CUT",
-          "corpro": "IPS-N",
-          "frame": "Drake",
-          "mech": "Alabama Chrome"
-        },
         {
           "callsign": "scimitar",
           "alias": "Zara Khan",
@@ -165,7 +157,7 @@ export default {
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande ",
-        "subheaderSubtitle": "'Chimera Force'",
+        "subheaderSubtitle": "Charlie Foxtrot",
       },
       "options":{
         "eventsMarkdownPerMission": true
