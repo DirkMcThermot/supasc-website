@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "004",
-      "current_md": "004",
-      "events": "004",
+      "mission_slug": "005",
+      "current_md": "005",
+      "events": "005",
       "missions": [
         {
           "slug": "001",
@@ -112,6 +112,11 @@ export default {
           "slug": "004",
           "name": "Dustgrave",
           "status": "success"
+        },
+        {
+          "slug": "005",
+          "name": "Phantom Pursuit",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -149,9 +154,9 @@ export default {
         },
       ],
       "header": {
-        "planet": "Port Conroy, Havelburg",
+        "planet": "Nov Elysia, Cressidium",
         "year": "5016u",
-        "system": "Ziegler",
+        "system": "Cascade-16",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
