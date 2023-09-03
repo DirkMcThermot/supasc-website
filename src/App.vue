@@ -124,9 +124,9 @@ export default {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "IC",
-          "frame": "Acastus",
-          "mech": "The Art of Dismemberment"
+          "corpro": "MOI",
+          "frame": "Nimue",
+          "mech": "The 36 Arms of God"
         },
         {
           "callsign": "kid fritz",
