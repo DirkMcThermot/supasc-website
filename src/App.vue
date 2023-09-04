@@ -132,9 +132,9 @@ export default {
           "callsign": "kid fritz",
           "alias": "Frederick 'Fritz' Ackerley",
           "code": "Ackerley.Frederick.Fritz:652597be-f3fd-45f3-82c3-f851b2cbb7e4//NDL-C-THIRD-JUNE",
-          "corpro": "HORUS",
-          "frame": "Goblin",
-          "mech": "Phantom Backpack"
+          "corpro": "SSC",
+          "frame": "Dusk Wing",
+          "mech": "Phantom Light Cycle"
         },
         {
           "callsign": "shrike",
