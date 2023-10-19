@@ -154,7 +154,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Nov Elysia, Cressidium",
+        "planet": "Aeon, Vezoria",
         "year": "5016u",
         "system": "Cascade-16",
         "gate": "Rainier Station",

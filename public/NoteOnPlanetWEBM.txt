@@ -1,0 +1,1 @@
+To set the planet correctly, create a copy of the respective planet's .webm and rename it to "planet.webm"
