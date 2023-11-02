@@ -129,14 +129,6 @@ export default {
           "mech": "The 36 Arms of God"
         },
         {
-          "callsign": "kid fritz",
-          "alias": "Frederick 'Fritz' Ackerley",
-          "code": "Ackerley.Frederick.Fritz:652597be-f3fd-45f3-82c3-f851b2cbb7e4//NDL-C-THIRD-JUNE",
-          "corpro": "SSC",
-          "frame": "Dusk Wing",
-          "mech": "Phantom Light Cycle"
-        },
-        {
           "callsign": "shrike",
           "alias": "Dalton Burke",
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
