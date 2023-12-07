@@ -154,7 +154,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Edarum",
+        "planet": "Drenov",
         "year": "5016u",
         "system": "Cascade-16",
         "gate": "Rainier Station",
