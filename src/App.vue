@@ -116,7 +116,7 @@ export default {
         {
           "slug": "005",
           "name": "Phantom Pursuit",
-          "status": "start"
+          "status": "partial-success"
         },
       ],
       "pilots": [
