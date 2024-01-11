@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
-      "current_md": "005",
-      "events": "005",
+      "mission_slug": "006",
+      "current_md": "006",
+      "events": "006",
       "missions": [
         {
           "slug": "001",
@@ -118,15 +118,20 @@ export default {
           "name": "Phantom Pursuit",
           "status": "partial-success"
         },
+        {
+          "slug": "006",
+          "name": "TBD",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "MOI",
-          "frame": "Nimue",
-          "mech": "The 36 Arms of God"
+          "corpro": "C&H",
+          "frame": "Pesilat",
+          "mech": "Sword of the One"
         },
         {
           "callsign": "junior",
@@ -141,20 +146,20 @@ export default {
           "alias": "Dalton Burke",
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
           "corpro": "SSC",
-          "frame": "Reaper Dart",
-          "mech": "Morta"
+          "frame": "Oleander",
+          "mech": "Charon"
         },
         {
           "callsign": "dominus",
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
-          "corpro": "HORUS",
-          "frame": "Gorgon",
-          "mech": "Man's Best Friend"
+          "corpro": "HA",
+          "frame": "Saladin",
+          "mech": "Colossus"
         },
       ],
       "header": {
-        "planet": "Drenov",
+        "planet": "Rainier Station",
         "year": "5016u",
         "system": "Cascade-16",
         "gate": "Rainier Station",
