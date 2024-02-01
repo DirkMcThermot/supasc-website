@@ -120,7 +120,7 @@ export default {
         },
         {
           "slug": "006",
-          "name": "TBD",
+          "name": "Genetic Veil",
           "status": "start"
         },
       ],
@@ -129,9 +129,9 @@ export default {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "C&H",
-          "frame": "Pesilat",
-          "mech": "Sword of the One"
+          "corpro": "ID",
+          "frame": "Nemesis",
+          "mech": "Voladore Rental 65"
         },
         {
           "callsign": "junior",
