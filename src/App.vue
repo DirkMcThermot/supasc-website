@@ -121,7 +121,7 @@ export default {
         {
           "slug": "006",
           "name": "Genetic Veil",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
