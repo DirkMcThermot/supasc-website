@@ -159,9 +159,9 @@ export default {
         },
       ],
       "header": {
-        "planet": "Rainier Station",
+        "planet": "EN-041518",
         "year": "5016u",
-        "system": "Cascade-16",
+        "system": "SKJD-34945",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
