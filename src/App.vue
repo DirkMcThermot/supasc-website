@@ -123,15 +123,20 @@ export default {
           "name": "Genetic Veil",
           "status": "success"
         },
+        {
+          "slug": "007",
+          "name": "TBD",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "ID",
-          "frame": "Nemesis",
-          "mech": "Voladore Rental 65"
+          "corpro": "MOI",
+          "frame": "Amakusa",
+          "mech": "Long March to Heaven"
         },
         {
           "callsign": "junior",
@@ -154,8 +159,8 @@ export default {
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
           "corpro": "HA",
-          "frame": "Habsburg",
-          "mech": "Titan"
+          "frame": "Tokugawa",
+          "mech": "Abaddon"
         },
       ],
       "header": {
