@@ -125,7 +125,7 @@ export default {
         },
         {
           "slug": "007",
-          "name": "TBD",
+          "name": "Defiant Dawn",
           "status": "start"
         },
       ],
