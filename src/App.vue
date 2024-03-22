@@ -166,7 +166,7 @@ export default {
       "header": {
         "planet": "Port Conroy, Havelburg",
         "year": "5016u",
-        "system": "N/A",
+        "system": "Ziegler",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
