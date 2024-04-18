@@ -164,9 +164,9 @@ export default {
         },
       ],
       "header": {
-        "planet": "New Port Conroy, Havelburg",
+        "planet": "Rainier Station",
         "year": "5016u",
-        "system": "Ziegler",
+        "system": "n/a",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
