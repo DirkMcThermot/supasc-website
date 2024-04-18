@@ -126,7 +126,7 @@ export default {
         {
           "slug": "007",
           "name": "Defiant Dawn",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
