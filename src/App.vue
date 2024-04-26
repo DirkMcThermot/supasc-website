@@ -141,7 +141,7 @@ export default {
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
           "corpro": "HA",
           "frame": "Arthur",
-          "mech": "Gentlement, Please, Stop"
+          "mech": "Gentlemen, Please, Stop"
         },
         {
           "callsign": "junior",
