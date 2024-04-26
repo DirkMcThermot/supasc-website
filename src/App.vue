@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "007",
-      "current_md": "007",
-      "events": "007",
+      "mission_slug": "008",
+      "current_md": "008",
+      "events": "008",
       "missions": [
         {
           "slug": "001",
@@ -128,15 +128,20 @@ export default {
           "name": "Defiant Dawn",
           "status": "success"
         },
+        {
+          "slug": "008",
+          "name": "TBD",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "MOI",
-          "frame": "Amakusa",
-          "mech": "Long March to Heaven"
+          "corpro": "HA",
+          "frame": "Arthur",
+          "mech": "Gentlement, Please, Stop"
         },
         {
           "callsign": "junior",
