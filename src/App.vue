@@ -163,8 +163,8 @@ export default {
           "callsign": "dominus",
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
-          "corpro": "HA",
-          "frame": "Tokugawa",
+          "corpro": "RKF",
+          "frame": "Calendula",
           "mech": "Abaddon"
         },
       ],
