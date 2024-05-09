@@ -156,7 +156,7 @@ export default {
           "alias": "Dalton Burke",
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
           "corpro": "SSC",
-          "frame": "Oleander",
+          "frame": "Reaper Dart",
           "mech": "Charon"
         },
         {
