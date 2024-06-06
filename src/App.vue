@@ -130,8 +130,8 @@ export default {
         },
         {
           "slug": "008",
-          "name": "TBD",
-          "status": "start"
+          "name": "Quiet Harvest",
+          "status": "success"
         },
       ],
       "pilots": [
