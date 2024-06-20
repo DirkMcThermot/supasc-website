@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "008",
-      "current_md": "008",
-      "events": "008",
+      "mission_slug": "009",
+      "current_md": "009",
+      "events": "009",
       "missions": [
         {
           "slug": "001",
@@ -133,15 +133,20 @@ export default {
           "name": "Quiet Harvest",
           "status": "success"
         },
+        {
+          "slug": "009",
+          "name": "TBD",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "HA",
-          "frame": "Arthur",
-          "mech": "Gentlemen, Please, Stop"
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "Handle with Care, Please"
         },
         {
           "callsign": "junior",
@@ -163,9 +168,9 @@ export default {
           "callsign": "dominus",
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
-          "corpro": "RKF",
-          "frame": "Calendula",
-          "mech": "Abaddon"
+          "corpro": "HORUS",
+          "frame": "Manticore",
+          "mech": "Zeus"
         },
       ],
       "header": {
