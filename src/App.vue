@@ -174,7 +174,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Kouris Farm, Persephone",
+        "planet": "Hestia, Demeter",
         "year": "5016u",
         "system": "Phoros",
         "gate": "Annapurna Station",
