@@ -136,6 +136,11 @@ export default {
         {
           "slug": "009",
           "name": "Bountiful Concord",
+          "status": "success"
+        },
+        {
+          "slug": "010",
+          "name": "TBD",
           "status": "start"
         },
       ],
@@ -144,9 +149,9 @@ export default {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "HORUS",
-          "frame": "Lich",
-          "mech": "Handle with Care, Please"
+          "corpro": "C&H",
+          "frame": "Charioteer",
+          "mech": "Director's Cut"
         },
         {
           "callsign": "junior",
@@ -174,11 +179,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hestia, Demeter",
+        "planet": "Rainier Station",
         "year": "5016u",
-        "system": "Phoros",
-        "gate": "Annapurna Station",
-        "ring": "Himalaya Line",
+        "system": "N/A",
+        "gate": "Rainier Station",
+        "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande ",
