@@ -173,9 +173,9 @@ export default {
           "callsign": "dominus",
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
-          "corpro": "HORUS",
-          "frame": "Manticore",
-          "mech": "Zeus"
+          "corpro": "IPS-N",
+          "frame": "Störtebeker",
+          "mech": "My Favorite Diplomatic Strategy"
         },
       ],
       "header": {
