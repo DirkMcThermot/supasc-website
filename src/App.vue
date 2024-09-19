@@ -181,7 +181,7 @@ export default {
       "header": {
         "planet": "Hadiqa, Suldan",
         "year": "5016u",
-        "system": "N/A",
+        "system": "Suldan",
         "gate": "Sia Kangri Station",
         "ring": "Karakoram Line",
         "headerTitle": "Union Naval Department",
