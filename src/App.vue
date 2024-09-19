@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "009",
-      "current_md": "009",
-      "events": "009",
+      "mission_slug": "010",
+      "current_md": "010",
+      "events": "010",
       "missions": [
         {
           "slug": "001",
@@ -140,7 +140,7 @@ export default {
         },
         {
           "slug": "010",
-          "name": "TBD",
+          "name": "Cultivated Strike",
           "status": "start"
         },
       ],
@@ -179,11 +179,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Rainier Station",
+        "planet": "Hadiqa, Suldan",
         "year": "5016u",
         "system": "N/A",
-        "gate": "Rainier Station",
-        "ring": "Cascade Line",
+        "gate": "Sia Kangri Station",
+        "ring": "Karakoram Line",
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande ",
