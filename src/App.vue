@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "010",
-      "current_md": "010",
-      "events": "010",
+      "mission_slug": "011",
+      "current_md": "011",
+      "events": "011",
       "missions": [
         {
           "slug": "001",
@@ -141,6 +141,11 @@ export default {
         {
           "slug": "010",
           "name": "Cultivated Strike",
+          "status": "success"
+        },
+        {
+          "slug": "011",
+          "name": "Temporal Raid",
           "status": "start"
         },
       ],
@@ -179,7 +184,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hadiqa, Suldan",
+        "planet": "Julian Khan's Metavault, Suldan",
         "year": "5016u",
         "system": "Suldan",
         "gate": "Sia Kangri Station",
