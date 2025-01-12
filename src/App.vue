@@ -154,9 +154,9 @@ export default {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "MOI",
-          "frame": "Nimue",
-          "mech": "Limited Collector's Edition"
+          "corpro": "IF",
+          "frame": "Rose",
+          "mech": "The Last Temptation Of..."
         },
         {
           "callsign": "junior",
