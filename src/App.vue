@@ -172,15 +172,15 @@ export default {
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
           "corpro": "SSC",
           "frame": "Amber Phantom",
-          "mech": "Charon"
+          "mech": "Pale Horse Requiem"
         },
         {
           "callsign": "dominus",
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
-          "corpro": "IPS-N",
-          "frame": "Störtebeker",
-          "mech": "My Favorite Diplomatic Strategy"
+          "corpro": "SSC",
+          "frame": "Emperor",
+          "mech": "Guardian Angel"
         },
       ],
       "header": {
