@@ -146,7 +146,7 @@ export default {
         {
           "slug": "011",
           "name": "Temporal Raid",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
@@ -184,11 +184,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Julian Khan's Metavault, Suldan",
+        "planet": "Rainier Station",
         "year": "5016u",
-        "system": "Suldan",
-        "gate": "Sia Kangri Station",
-        "ring": "Karakoram Line",
+        "system": "Rainier",
+        "gate": "Rainier Station",
+        "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
         "headerSubtitle": "",
         "subheaderTitle": "UNS-CV Rio Grande ",
