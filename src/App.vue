@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "011",
-      "current_md": "011",
-      "events": "011",
+      "mission_slug": "012",
+      "current_md": "012",
+      "events": "012",
       "missions": [
         {
           "slug": "001",
@@ -148,15 +148,20 @@ export default {
           "name": "Temporal Raid",
           "status": "success"
         },
+        {
+          "slug": "012",
+          "name": "TBD",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "IF",
-          "frame": "Rose",
-          "mech": "The Last Temptation Of..."
+          "corpro": "Monist-0",
+          "frame": "Effigy",
+          "mech": "All For Juan"
         },
         {
           "callsign": "junior",
@@ -178,9 +183,9 @@ export default {
           "callsign": "dominus",
           "alias": "Rho",
           "code": "Rho:d826efe6-e91fe91f-4617-9ad0-02d6-df1e92ebe//NDL-C-COLD-AXE",
-          "corpro": "SSC",
-          "frame": "Emperor",
-          "mech": "Guardian Angel"
+          "corpro": "IPS-N",
+          "frame": "Blackbeard",
+          "mech": "Vengeance"
         },
       ],
       "header": {
