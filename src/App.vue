@@ -150,7 +150,7 @@ export default {
         },
         {
           "slug": "012",
-          "name": "TBD",
+          "name": "Shattered Respite",
           "status": "start"
         },
       ],
@@ -189,9 +189,9 @@ export default {
         },
       ],
       "header": {
-        "planet": "Rainier Station",
+        "planet": "Sapphire Shoreline, Shanden",
         "year": "5016u",
-        "system": "Rainier",
+        "system": "Constellar S04",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
