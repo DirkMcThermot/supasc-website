@@ -164,14 +164,6 @@ export default {
           "mech": "All For Juan"
         },
         {
-          "callsign": "junior",
-          "alias": "J'lio Kimoto III",
-          "code": "Kimoto.J'lio:6dab8071-6d42-486d-b433-0b77c295f6f4//NDL-C-NULL-ROYAL",
-          "corpro": "DFG",
-          "frame": "Gluttony",
-          "mech": "Drowned in Love"
-        },
-        {
           "callsign": "shrike",
           "alias": "Dalton Burke",
           "code": "Burke.Dalton:a96d415d-6321-4a61-8509-edb7f6ed4280//NDL-C-SORROW-HAMMER",
