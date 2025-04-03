@@ -151,7 +151,7 @@ export default {
         {
           "slug": "012",
           "name": "Shattered Respite",
-          "status": "start"
+          "status": "partial-success"
         },
       ],
       "pilots": [
