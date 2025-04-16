@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "012",
-      "current_md": "012",
-      "events": "012",
+      "mission_slug": "013",
+      "current_md": "013",
+      "events": "013",
       "missions": [
         {
           "slug": "001",
@@ -151,7 +151,12 @@ export default {
         {
           "slug": "012",
           "name": "Shattered Respite",
-          "status": "partial-success"
+          "status": "success"
+        },
+        {
+          "slug": "013",
+          "name": "Herald Ascendant",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -181,9 +186,9 @@ export default {
         },
       ],
       "header": {
-        "planet": "Sapphire Shoreline, Shanden",
+        "planet": "Rainier Station",
         "year": "5016u",
-        "system": "Constellar S04",
+        "system": "N/A",
         "gate": "Rainier Station",
         "ring": "Cascade Line",
         "headerTitle": "Union Naval Department",
