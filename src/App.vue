@@ -164,9 +164,9 @@ export default {
           "callsign": "scimitar",
           "alias": "Zara Khan",
           "code": "Khan.Zara:5f5a521c-4b4d-654d0-2q34dfs-03245//NDL-C-GAMMA-SUN",
-          "corpro": "Monist-0",
-          "frame": "Effigy",
-          "mech": "All For Juan"
+          "corpro": "DFG",
+          "frame": "Gluttony",
+          "mech": "Pressure of Grace"
         },
         {
           "callsign": "shrike",
