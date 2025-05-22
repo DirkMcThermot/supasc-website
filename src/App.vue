@@ -156,7 +156,7 @@ export default {
         {
           "slug": "013",
           "name": "Herald Ascendant",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
